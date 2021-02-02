@@ -6,7 +6,7 @@ Flasy:
 0, "", unefined, null, NaN(Not a Number)
  */
 
-const age = 4;
+const age = 5;
 if (age > 0) {
     console.log("condition is true");
 } else {
